@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+# Name: LINGESWARAN K
+# Reg no: 212222110022
 
 ## Aim:
 
